@@ -1,0 +1,21 @@
+a
+{
+   font-size: 40px;
+   font-family: cursive;    
+    background-color: aliceblue;
+    color: black;
+    border: darkgrey;
+    border-radius: 20px;
+}
+
+form{
+    background-image:url("STAGE.jpg");
+    
+
+    background-attachment: fixed;
+    font-size: 30px;font-family: cursive;
+    border: 20px;
+}
+ div{
+     color: whitesmoke;
+ }
